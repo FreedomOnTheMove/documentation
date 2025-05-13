@@ -92,6 +92,6 @@ The project utilizes two separate RDS database instances:
 
 ---
 
-These databases are publically accessible by members of the security group.
+These databases are publicly accessible by members of the security group.
 
 Ideally Multi-AZ deployments would be used but the current selections are price conscientious. 
