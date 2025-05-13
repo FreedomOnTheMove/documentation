@@ -3,20 +3,20 @@
 ## Table of Contents
 
 ### Infrastructure
-- [AWS Infrastructure Overview](aws-infrastructure.md)
-- [Load Balancing Architecture](load-balancing.md)
-- [CloudFront Content Delivery](cloudfront-delivery.md)
-- [ECS Services](ecs-services.md)
-- [Database Configuration](database-config.md)
-- [S3 Storage Configuration](s3-storage.md)
-- [Networking Configuration](networking.md)
+- [AWS Infrastructure Overview](aws_high_level_architecture.md)
+- [Load Balancing Architecture](aws_alb.md)
+- [CloudFront Content Delivery](aws_cloudfront.md)
+- [Elastic Container Service](aws_ecs.md)
+- [Database Configuration](aws_rds.md)
+- [S3 Storage Configuration](aws_s3.md)
+- [Networking Configuration](aws_vpc.md)
 
 ### User Guides
-- [Database Search Guide](database-search.md)
-- [Collections Management](collections.md)
-- [Transcription Contribution](transcription.md)
+- [Database Search Guide](database_usage.md)
+- [Collections Management](database_usage.md)
+- [Transcription Contribution](database_usage.md)
 
 ### Content Management
-- [Ghost CMS Guide](ghost-cms.md)
-- [Creating Educator Resources](educator-resources.md)
-- [Post Metadata Management](post-metadata.md)
+- [Ghost CMS Guide](ghost.md)
+- [Creating Educator Resources](ghost.md)
+- [Post Metadata Management](ghost.md)
