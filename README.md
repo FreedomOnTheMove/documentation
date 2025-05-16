@@ -15,6 +15,7 @@
 - [Database Search Guide](database_usage.md)
 - [Collections Management](database_usage.md)
 - [Transcription Contribution](database_usage.md)
+- [Importing New Advertisements](importing_advertisements.md)
 
 ### Content Management
 - [Ghost CMS Guide](ghost.md)
